@@ -67,7 +67,7 @@ Automated email output includes:
 
 
 /screenshots
-    workflow.png
+    [workflow.png](https://github.com/Gowri93-DA/---/blob/main/Data%20Analysis%20Automation.png)
     [email_output.png](https://github.com/Gowri93-DA/---/blob/main/Data%20Analysis%20Automation.png)
 
 README.md
