@@ -16,6 +16,17 @@ Business users often need quick answers without opening BI tools.
 This solution automates the entire analytics process:
 Chat question → AI analysis → Email insights
 
+## Dataset Source
+
+This project uses the July Onyx Data Challenge dataset, which I originally analyzed to build an interactive Power BI dashboard as part of the Onyx Data Challenge.
+
+After completing the dashboard, I reused the same dataset to develop an AI-powered automation workflow using n8n and Google Gemini, enabling users to ask questions and receive automated insights via email.
+
+This demonstrates how the same dataset can be leveraged for both:
+
+Interactive dashboard analysis (Power BI)
+Automated AI-driven insight generation (n8n + Gemini AI)
+
 ---
 
 ## Solution Workflow
